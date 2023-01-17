@@ -1,0 +1,25 @@
+.napis {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    padding-left: auto;
+    padding-right: auto;
+}
+body {
+    box-shadow: 0 0 20px grey;
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+p {
+    display: flex;
+    justify-content: space-around;
+}
